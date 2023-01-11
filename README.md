@@ -12,7 +12,7 @@ if you dont have installed database in your computer you can use docker compose 
 
 ### How to use
 
-- clone this repo `print`
+- clone this repo `git clone https://github.com/rizkydarmadi/alembic_automigrations.git`
 - make virtual environtment for linux/macOS `python -m venv env`
 - use the environtment `source env/bin/activate`
 - installl library `pip install -r requirements.txt`
