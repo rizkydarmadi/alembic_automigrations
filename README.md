@@ -4,7 +4,7 @@
 
 - python 3.11
 - docker-compose
-- ubuntu/macOS and windows (ubuntu/macOS recomended)
+- ubuntu/macOS or windows (ubuntu/macOS recomended)
 
 ### create database
 
